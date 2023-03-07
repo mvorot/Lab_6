@@ -1,3 +1,4 @@
+# Originally made by Mikhail Vorotnikov
 
 def encoder(password):
     encoded_password = ''
