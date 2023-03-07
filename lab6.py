@@ -33,7 +33,7 @@ while True:
     elif option == 3:
         exit()
     else:
-        pass
+        print('Wrong option. Please choose again!')
 
 
 
